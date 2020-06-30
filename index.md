@@ -16,3 +16,5 @@ Geralt is a witcher. Shortly after being born, Geralt's mother, Visenna, gave hi
 * Trinkfest
 * Magische Begabung
 * Exzellenter Krieger
+* Benutzt Silberschwert nur gegen Monster
+* Ausgebildet in Kaer Morhen
