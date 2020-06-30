@@ -18,3 +18,15 @@ Geralt is a witcher. Shortly after being born, Geralt's mother, Visenna, gave hi
 * Exzellenter Krieger
 * Benutzt Silberschwert nur gegen Monster
 * Ausgebildet in Kaer Morhen
+
+## Das ist sein Motto
+> if I'm to choose between one evil and another, 
+> then I prefer not to choose at all.
+
+
+## Das ist sein Motto
+> if I'm to choose between one evil and another, 
+> then I prefer not to choose at all.
+
+
+<img src="https://media.playcentral.de/wp-content/uploads/2020/01/03184151/newspic-82047-652x365.jpg" width="100%"/>
